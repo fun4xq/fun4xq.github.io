@@ -13,7 +13,6 @@
     "main.50881429.js.map": "/static/js/main.50881429.js.map"
   },
   "entrypoints": [
-    "static/js/main.1ee10d45.js"
     "static/css/main.b64b9018.css",
     "static/js/main.50881429.js"
   ]
